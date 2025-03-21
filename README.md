@@ -1,6 +1,6 @@
 # Hey 👋 I'm Adam
 
-I'm a front end software developer based near Manchester, UK.
+I'm a senior front end software developer based near Manchester, UK.
 
 ## What do you do?
 
